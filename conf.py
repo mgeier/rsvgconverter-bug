@@ -1,0 +1,2 @@
+extensions = ['sphinxcontrib.rsvgconverter']
+
