@@ -12,3 +12,7 @@ PNG "data" URL:
 SVG "data" URL:
 
 .. image:: data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSI2MCIgd2lkdGg9IjYwIj4KICAgIDxjaXJjbGUgY3g9IjQwIiBjeT0iNDAiIHI9IjI0IiBzdHlsZT0ic3Ryb2tlOiMwMDAwMDA7IGZpbGw6I2ZmZmZmZiIvPgo8L3N2Zz4K
+
+SVG remote image URL:
+
+.. image:: https://jupyter.org/assets/homepage/main-logo.svg
